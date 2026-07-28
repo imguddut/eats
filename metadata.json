@@ -1,0 +1,6 @@
+{
+  "name": "ArwalEats",
+  "description": "ArwalEats Admin Portal - Mobile-optimized Android Admin dashboard for managing orders, kitchen dispatches, rider assignments, and real-time notifications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

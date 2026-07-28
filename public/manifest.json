@@ -1,0 +1,42 @@
+{
+  "short_name": "ArwalEats Admin",
+  "name": "ArwalEats - Android Admin Portal",
+  "description": "Android-optimized Admin Dashboard for managing orders, kitchen dispatches, and real-time alerts.",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "type": "image/svg+xml",
+      "sizes": "any"
+    },
+    {
+      "src": "/icon.svg",
+      "type": "image/svg+xml",
+      "sizes": "192x192",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon.svg",
+      "type": "image/svg+xml",
+      "sizes": "512x512",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon.svg",
+      "type": "image/svg+xml",
+      "sizes": "192x192",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/icon.svg",
+      "type": "image/svg+xml",
+      "sizes": "512x512",
+      "purpose": "maskable"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#FFFAF3",
+  "theme_color": "#F62440",
+  "display": "standalone",
+  "orientation": "portrait",
+  "categories": ["food", "shopping"]
+}
